@@ -1,7 +1,8 @@
 ![logo](https://github.com/Sufyankhan02/Sufyankhan02/blob/main/Sufyan%20khan.png)
 <h1 align="center">Hi 👋, I'm Sufyan khan</h1>
 <h3 align="center">A passionate cyber security expert from India</h3>
-<img align="right" alt="penetration testing"width"400" src="https://images.app.goo.gl/GRQ8syvhHuLPyPxn7">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
 - 🔭 I’m currently studying in **Third year (Be,cse)**
 
 - 🌱 I’m currently learning **Penetration testing**
